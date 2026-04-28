@@ -18,4 +18,4 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ## Live Demo
-http://localhost:8501/
+https://resume-screener-fgpu8umuqwg8avgvkagdvc.streamlit.app/
